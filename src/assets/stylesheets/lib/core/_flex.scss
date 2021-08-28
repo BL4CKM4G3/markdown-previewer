@@ -1,0 +1,27 @@
+//////////////////////////////////////////
+// FLEX Core Module                     //
+//////////////////////////////////////////
+
+.d-flex {
+  display: flex;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.col {
+  flex-direction: column;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.j-between {
+  justify-content: space-between;
+}
+
+.j-around {
+  justify-content: space-around;
+}
