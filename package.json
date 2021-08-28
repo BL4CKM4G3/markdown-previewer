@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "marked": "^3.0.2",
+    "monaco-editor-vue": "^1.0.10",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
